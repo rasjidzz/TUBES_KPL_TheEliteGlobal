@@ -1,10 +1,10 @@
 # TUBES_KPL_TheEliteGlobal
 
-Anggota Kelompok :
+Anggota Kelompok : 
+1. Muhammad Risjad Shidqi Febian (Ketua)
+2. Stevent Rangga Ramaditya
+3. Zhafran Hafizh I.
+4. Ashar Syahbudi S.
+5. Surya Aulia
+6. Gifari Juliandri
 
-Muhammad Risjad Shidqi Febian (Ketua)
-Stevent Rangga Ramaditya
-Zhafran Hafizh I.
-Ashar Syahbudi S.
-Surya Aulia
-Gifari Juliandri
